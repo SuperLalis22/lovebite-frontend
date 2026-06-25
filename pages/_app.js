@@ -1,4 +1,4 @@
-import '@/styles/globals.css';
+import '../styles/globals.css';
 import { createClient } from '@supabase/supabase-js';
 import { useState, useEffect } from 'react';
 
